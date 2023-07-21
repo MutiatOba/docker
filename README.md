@@ -22,3 +22,7 @@ when type  command '''docker run hello-world''' this starts docker client on you
 
 ### what is a container
 
+<img width="958" alt="image" src="https://github.com/MutiatOba/docker/assets/118978642/93388e92-6238-4215-9ae0-4e591d2c4278">
+
+<img width="906" alt="image" src="https://github.com/MutiatOba/docker/assets/118978642/b1f376e3-54a6-4a2e-8d9e-d056edc5bae8">
+
