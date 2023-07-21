@@ -21,6 +21,8 @@ When we install docker this includes a docker client (cli - tool used to issue c
 when type  command '''docker run hello-world''' this starts docker client on your computer. this is communicated to docker server. The docker server know want to start container. it first chaeck if we have image locally and if not downloads it from docker hub. this command create a new container with the hello-world image
 
 ### what is a container
+
+Kernel - connects the hard drive with the runnig programes
 ![Uploading image.png…]()
 
 
