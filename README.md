@@ -22,7 +22,3 @@ when type  command '''docker run hello-world''' this starts docker client on you
 
 ### what is a container
 
-Kernel - connects the hard drive with the runnig programes
-![Uploading image.png…]()
-
-
