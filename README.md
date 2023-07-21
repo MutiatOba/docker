@@ -6,7 +6,7 @@ Make it easy to install and run software on any computer and webserver without w
 
 Is a platform or ecosystem around creating and running containers
 
-![Uploading image.png…]()
+<img width="820" alt="image" src="https://github.com/MutiatOba/docker/assets/118978642/47573366-e4d6-4fe5-a26b-172a4befc712">
 
 An image is a single file with all the deps and config required to run a program. you can use image to create a container.
 
