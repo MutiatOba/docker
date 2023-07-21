@@ -5,4 +5,4 @@ Make it easy to install and run software on any computer and webserver without w
 ### What is docker
 
 Is a platform or ecosystem around creating and running containers
-![Alt text](image.png)
+![Uploading image.png…]()
